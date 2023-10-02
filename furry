@@ -1,1 +1,24 @@
 
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <!-- Thumbnail image/gif -->
+    <meta property="og:image" content="https://media.tenor.com/iFaLchhTJYIAAAAd/furry.gif">
+    <meta property="og:type" content="video.other">
+    
+    <!-- Video Link -->
+    <meta property="og:video:url" content="https://cdn.discordapp.com/attachments/1156905582146617415/1158467412761509918/SaveTube.App-boom_boom_boom_boom_furry_animation_except_rick_roll-480p.mp4?ex=651c5a5a&is=651b08da&hm=edb26fa38a720220e324b5cc07ed157871ae117187cd967be20b3c318cea3609&">
+    <!-- If you want a seamless transition between your thumbnail size and video size, adjust these values to match your thumbnail resolution. -->
+    <!-- However, it will be all wonky if your thumbnail is vertical and your video is horizontal. This works best with similar aspect ratios -->
+    <meta property="og:video:height" content="202">
+    <meta property="og:video:width" content="250">
+    
+    <!-- Stole the memes from https://github.com/iwakkrg/iwakkrg.github.io -->
+    
+    <!-- Redirect -->
+    <meta http-equiv="refresh" content="0; url=https://lafurrada.hopto.org" />
+  </head>
+  <body>
+  </body>
+</html>
